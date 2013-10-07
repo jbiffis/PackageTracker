@@ -1,0 +1,9 @@
+// Progress of the app
+
+Track Lookup[          ]  0%
+Google Maps [          ]  0%
+Preditions  [          ]  0%
+UI          [          ]  0%
+Display Data[          ]  0%
+Fedex       [======    ] 60%
+UPS         [====      ] 40%

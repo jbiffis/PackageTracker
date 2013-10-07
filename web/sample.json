@@ -1,0 +1,42 @@
+{
+"packageDetails": {
+"trackingCode": "9261290100129709655949",
+"carrier": "FedEx",
+"loc_start": "FERNLEY, NV, US",
+"loc_end": "OGDENSBURG, NY, US",
+"status": "Departed FedEx location",
+"date_added": "2013-03-15T00:23-05:00",
+"events": [
+{
+"date": "2013-03-26T19:43:21-04:00",
+"note": "Arrived at FedEx location",
+"eventType": "",
+"moreDesc": "",
+"address": "FEDEX SMARTPOST LOS ANGELES, CA, US",
+"addr_position": {
+"lat": "34.0522342",
+"lng": "-118.2436849"
+}
+},
+{
+"date": "2013-03-27T04:03:31-04:00",
+"note": "Departed FedEx location",
+"eventType": "DEPARTED",
+"moreDesc": "",
+"address": "FEDEX SMARTPOST LOS ANGELES, CA, US",
+"addr_position": {
+"lat": "34.0522342",
+"lng": "-118.2436849"
+}
+}
+],
+"loc_start_position": {
+"lat": "39.6079683",
+"lng": "-119.2518349"
+},
+"loc_end_position": {
+"lat": "44.6942291",
+"lng": "-75.4863364"
+}
+}
+}

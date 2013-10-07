@@ -1,0 +1,19 @@
+Accounts.txt
+
+== UPS =====================================
+UPSID:thefog
+PW: Debrief123
+Key: BCB197ED7E3DEB32
+
+== FEDEX ===================================
+userID: fogcomputing
+PW: Debrief123
+TestKey: cMEQd9ZhG7oCejPj
+Test Password:UP4WZBHKRMZ3kXVXG00rXVcHq
+Test Account Number:510087682 (for FedEx Web Services for Shipping only)
+Test Meter Number:118577566 (for FedEx Web Services for Shipping only)
+
+Production Password: NEvwkA5UxEGnZlqwcpsoDUdBT
+PROD Key: OT8ytfTHg3VdH0vO
+FedEx Account Number : 154201670
+Production Meter Number : 105005340

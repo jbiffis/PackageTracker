@@ -1,0 +1,18 @@
+function(doc) {
+if (doc.hops) {
+    for (var i = 0, hop; hop = doc.hops[i]; ++i) {
+        var _value = [{
+            "location": hop[0].name,
+            "first_date": hop[0].first_date,
+            "last_date": hop[0].last_date
+            }, {
+            "location": hop[1].name,
+            "first_date": hop[1].first_date,
+            "last_date": hop[1].last_date
+            }];
+
+                emit([hop[0], hop[1]], 'asdf');
+            }
+}
+
+}

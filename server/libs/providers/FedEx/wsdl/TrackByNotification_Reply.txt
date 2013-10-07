@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"><env:Header xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/><env:Body xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><v6:TrackNotificationReply xmlns:v6="http://fedex.com/ws/track/v6"><v6:HighestSeverity>SUCCESS</v6:HighestSeverity><v6:Notifications><v6:Severity>SUCCESS</v6:Severity><v6:Source>trck</v6:Source><v6:Code>0</v6:Code><v6:Message>Request was successfully processed.</v6:Message><v6:LocalizedMessage>Request was successfully processed.</v6:LocalizedMessage></v6:Notifications><v6:TransactionDetail>
+<v6:CustomerTransactionId>Track By Notification Request</v6:CustomerTransactionId>  
+</v6:TransactionDetail><v6:Version>
+<v6:ServiceId>trck</v6:ServiceId>
+<v6:Major>6</v6:Major>
+<v6:Intermediate>0</v6:Intermediate>
+<v6:Minor>0</v6:Minor>
+</v6:Version><v6:DuplicateWaybill>false</v6:DuplicateWaybill><v6:MoreDataAvailable>false</v6:MoreDataAvailable><v6:Packages><v6:TrackingNumber>800097415002141</v6:TrackingNumber><v6:TrackingNumberUniqueIdentifiers>12010~800097415002141</v6:TrackingNumberUniqueIdentifiers><v6:CarrierCode>FDXG</v6:CarrierCode><v6:ShipDate>2010-12-27</v6:ShipDate><v6:Destination><v6:City>GASTONIA</v6:City><v6:StateOrProvinceCode>NC</v6:StateOrProvinceCode><v6:CountryCode>US</v6:CountryCode><v6:Residential>false</v6:Residential></v6:Destination><v6:RecipientDetails><v6:NotificationEventsAvailable>ON_DELIVERY</v6:NotificationEventsAvailable></v6:RecipientDetails></v6:Packages></v6:TrackNotificationReply></env:Body></soapenv:Envelope>

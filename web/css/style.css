@@ -1,0 +1,42 @@
+html, body {
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+
+/* Google Maps Code */
+#map-container {
+	height: 100%;
+	width: 100%;
+}
+
+#main {
+	width: 900px;
+	height: 555px;
+	background: #fff;
+	display: block;
+	position: absolute;
+	z-index: 99;
+}
+
+#right-side {
+	width: 400px;
+	height: 400px;
+	background: #fff;
+	display: block;
+	position: absolute;
+	z-index: 99;
+	margin-top: 125px;
+}
+
+.center {
+	left: 50%;
+	margin-left: -450px;
+}
+
+.shadowbox {
+	-moz-box-shadow: 10px 10px 5px #888;
+	-webkit-box-shadow: 10px 10px 5px #888;
+	box-shadow: 10px 10px 5px #888;
+}
